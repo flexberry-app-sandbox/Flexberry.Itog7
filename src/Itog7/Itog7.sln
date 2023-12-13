@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itog7.Objects", "Objects/Itog7.Objects.csproj", "f4060c2b-0e0d-487c-a008-2c09b907d788"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itog7.Tests", "Tests/Itog7.Tests.csproj", "74203ccc-5bdd-40f8-ae9a-dd6f93f3151d"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itog7.IntegrationTests", "IntegrationTests/Itog7.IntegrationTests.csproj", "891b9443-755f-49c5-bf38-1ddd4dadb4e6"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+Debug|Any CPU = Debug|Any CPU
+Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		f4060c2b-0e0d-487c-a008-2c09b907d788.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		f4060c2b-0e0d-487c-a008-2c09b907d788.Debug|Any CPU.Build.0 = Debug|Any CPU
+		f4060c2b-0e0d-487c-a008-2c09b907d788.Release|Any CPU.ActiveCfg = Release|Any CPU
+		f4060c2b-0e0d-487c-a008-2c09b907d788.Release|Any CPU.Build.0 = Release|Any CPU
+		74203ccc-5bdd-40f8-ae9a-dd6f93f3151d.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		74203ccc-5bdd-40f8-ae9a-dd6f93f3151d.Debug|Any CPU.Build.0 = Debug|Any CPU
+		74203ccc-5bdd-40f8-ae9a-dd6f93f3151d.Release|Any CPU.ActiveCfg = Release|Any CPU
+		74203ccc-5bdd-40f8-ae9a-dd6f93f3151d.Release|Any CPU.Build.0 = Release|Any CPU
+		891b9443-755f-49c5-bf38-1ddd4dadb4e6.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		891b9443-755f-49c5-bf38-1ddd4dadb4e6.Debug|Any CPU.Build.0 = Debug|Any CPU
+		891b9443-755f-49c5-bf38-1ddd4dadb4e6.Release|Any CPU.ActiveCfg = Release|Any CPU
+		891b9443-755f-49c5-bf38-1ddd4dadb4e6.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
